@@ -1,0 +1,1 @@
+.page-box{background-image:"url(" + require("../static/bg.png") + ")",;background-attachment:"fixed";min-height:100%;background-repeat:"no-repeat";background-position:50%;background-size:cover}
